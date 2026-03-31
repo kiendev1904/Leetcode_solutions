@@ -16,4 +16,8 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kiendev1904/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
+## Array
+|  |
+| ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/kiendev1904/Leetcode_solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 <!---LeetCode Topics End-->
