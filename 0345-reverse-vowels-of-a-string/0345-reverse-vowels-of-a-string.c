@@ -5,9 +5,6 @@ int check(char s){// check xem co la nguyen am khong , dung binary search
     char str[] = {'A','E','I','O','U','a','e','i','o','u'};
     int left = 0;
     int right = 9;
-    if(s > str[right]) return 0;// bo cac dieu kien truoc
-    if(s < str[left]) return 0;
-
     while(left <= right){
         int mid = (left + right )/2;
         if(str[mid] == s) return 1;
