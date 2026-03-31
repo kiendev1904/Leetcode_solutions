@@ -22,30 +22,14 @@ int check(char s){
     return 0;
 */
     switch(s){
-        case 'A':
-            return 1;
-            
-        case 'E':
-            return 1;
-        case 'I':
-            return 1;
-        case 'O':
-            return 1;
-        case 'U':
-            return 1;
-        case 'a':
-            return 1;
-        case 'e':
-            return 1;
-        case 'i':
-            return 1;
-        case 'o':
-            return 1;
-        case 'u':
+        case 'A': case 'E': case 'I': case 'O': case 'U':
+        case 'a': case 'e': case 'i': case 'o': case 'u': 
             return 1;
         default:
             return 0;
+            
     }
+
 }
 char* reverseVowels(char* s) {
     int i =0;
