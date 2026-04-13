@@ -44,4 +44,8 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0392-is-subsequence) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/kiendev1904/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
