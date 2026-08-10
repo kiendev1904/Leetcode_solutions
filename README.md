@@ -26,6 +26,7 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 ## Array
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -57,4 +58,12 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 | [1661-average-time-of-process-per-machine](https://github.com/kiendev1904/Leetcode_solutions/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/kiendev1904/Leetcode_solutions/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/kiendev1904/Leetcode_solutions/tree/master/1757-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
