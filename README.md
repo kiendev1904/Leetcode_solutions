@@ -15,6 +15,7 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0392-is-subsequence) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kiendev1904/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -62,8 +63,10 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
