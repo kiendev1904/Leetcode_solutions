@@ -14,6 +14,7 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0151-reverse-words-in-a-string](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -27,6 +28,7 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 ## Array
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0283-move-zeroes) |
@@ -62,11 +64,13 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
