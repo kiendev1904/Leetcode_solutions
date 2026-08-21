@@ -30,6 +30,7 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 | ------- |
 | [0049-group-anagrams](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -66,6 +67,7 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 | ------- |
 | [0049-group-anagrams](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
@@ -73,4 +75,8 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 | [0049-group-anagrams](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0242-valid-anagram) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
