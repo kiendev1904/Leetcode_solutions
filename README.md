@@ -24,6 +24,7 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 ## Math
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/kiendev1904/Leetcode_solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -48,6 +49,7 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 ## Dynamic Programming
 |  |
 | ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0392-is-subsequence) |
 ## Database
 |  |
@@ -79,4 +81,8 @@ A collection of LeetCode algorithm and data structure problems solved in Java/C+
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0219-contains-duplicate-ii) |
+## Backtracking
+|  |
+| ------- |
+| [0357-count-numbers-with-unique-digits](https://github.com/kiendev1904/Leetcode_solutions/tree/master/0357-count-numbers-with-unique-digits) |
 <!---LeetCode Topics End-->
